@@ -5,10 +5,9 @@ This project hosts a deliberately vulnerable web application designed for securi
 
 - Purpose
 The primary goal of this website is to serve as a testbed for Web Application Firewall (WAF) protection capabilities. It allows researchers and security enthusiasts to:
-
-        Understand the behavior of XSS and SQL Injection attacks in a controlled environment.
-        Test and improve WAF configurations and rules.
-        Develop and refine attack detection and prevention strategies.
+-- Understand the behavior of XSS and SQL Injection attacks in a controlled environment.
+-- Test and improve WAF configurations and rules.
+-- Develop and refine attack detection and prevention strategies.
 - Warning
 This website is intentionally insecure and should not be hosted on a public network. It is designed exclusively for educational and research purposes.
 
